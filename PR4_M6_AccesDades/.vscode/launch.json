@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "PR4_M6_AccesDades_cfac147e"
+        },
+        {
+            "type": "java",
+            "name": "PR140Main",
+            "request": "launch",
+            "mainClass": "PR140Main",
+            "projectName": "PR4_M6_AccesDades_cfac147e"
+        },
+        {
+            "type": "java",
+            "name": "PR141Main",
+            "request": "launch",
+            "mainClass": "PR141Main",
+            "projectName": "PR4_M6_AccesDades_cfac147e"
+        },
+        {
+            "type": "java",
+            "name": "PR142Main",
+            "request": "launch",
+            "mainClass": "PR142Main",
+            "projectName": "PR4_M6_AccesDades_cfac147e"
+        }
+    ]
+}
